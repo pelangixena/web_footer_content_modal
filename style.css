@@ -1,0 +1,15 @@
+:root{
+    --custom-background-color: rgb(128, 134, 37);
+}
+
+.bg-primary{
+    background-color: var(--custom-background-color) !important;
+}
+
+.nav-link.active {
+    background-color: var(--custom-background-color) !important;
+}
+
+.btn-primary {
+    background-color: var(--custom-background-color) !important;
+}
